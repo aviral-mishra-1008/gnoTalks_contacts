@@ -1,5 +1,8 @@
 # GnoTalks Contact Database - Instruction Manual
 
+![Screenshot_2024-10-05_150356-pixelAI](https://github.com/user-attachments/assets/d0d5b1fe-dadd-404f-97da-b5cff7016dda)
+
+
 ## Introduction
 The GnoTalks Contact Database is a vital resource designed to manage the details of speakers who were invited to GnoTalks at MNNIT but couldn't attend due to various reasons. By maintaining and updating this database, future teams can save significant time and effort in research, ensuring continuity and efficiency in inviting speakers. This resource benefits not only the current team but also future teams long after we've left MNNIT, as they won't need to redo the same research to fetch contacts.
 
