@@ -34,16 +34,14 @@ To delete contacts, run the `delete_contacts` Streamlit app. This app will promp
 2. **Run the Streamlit app** for adding contacts:
     ```bash
     streamlit run add_contacts.py
-
+    
 3. **Run the Streamlit app** for fetching contacts:
     ```bash
     streamlit run fetch_contacts.py
 
-
 4. **Run the Streamlit app** for deleting contacts:
     ```bash
     streamlit run delete.py
-
 
 ## Getting the Encryption Key and Database File
 - **Encryption Key:** Contact the GnoTalks team seniors to get the encryption key file. This key is necessary to encrypt and decrypt phone numbers.
